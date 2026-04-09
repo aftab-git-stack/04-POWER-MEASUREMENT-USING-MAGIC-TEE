@@ -72,9 +72,7 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 
 **G.	Analysis of Results: (Write your own)**
-
-![510534581-b9a362ae-ba6b-4847-8bd8-f4ef88b1e949](https://github.com/user-attachments/assets/c90c96ea-e03e-436b-9aa0-f77c684d0b42)
-
+Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation). Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB. Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
 
 **H.	Conclusions: (Write your Own)**
 
